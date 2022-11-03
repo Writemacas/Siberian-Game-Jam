@@ -12,6 +12,11 @@
 			"Name": "VoxelFree",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c61d1941c8664436be42d649404a10e0"
+		},
+		{
+			"Name": "BlendImporter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/348ff3dbb80f491cad0d329753529b5e"
 		}
 	]
 }
