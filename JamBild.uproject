@@ -15,7 +15,7 @@
 		},
 		{
 			"Name": "BlendImporter",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/348ff3dbb80f491cad0d329753529b5e"
 		}
 	]
