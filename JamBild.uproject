@@ -33,6 +33,10 @@
 		{
 			"Name": "FunctionalTestingEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "Wwise",
+			"Enabled": false
 		}
 	]
 }
